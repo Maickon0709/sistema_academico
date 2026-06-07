@@ -11,6 +11,7 @@ O Sistema Acadêmico é uma aplicação desenvolvida em Python com integração 
 O sistema permite realizar operações de cadastro, consulta, atualização e exclusão de informações relacionadas a alunos, professores, disciplinas e turmas, aplicando conceitos de programação, banco de dados e organização de código.
 
 🚀 Funcionalidades
+
 Cadastro de alunos
 Cadastro de professores
 Cadastro de disciplinas
@@ -19,12 +20,15 @@ Consulta de registros
 Atualização de informações
 Exclusão de registros
 Integração com banco de dados MySQL
+
 🛠️ Tecnologias Utilizadas
+
 Python
 MySQL
 SQL
 Git
 GitHub
+
 📂 Estrutura do Projeto
 sistema_academico/
 │
@@ -36,14 +40,18 @@ sistema_academico/
 ├── turmas.py
 ├── tela_menu.py
 └── README.md
+
 ▶️ Como Executar o Projeto
+
 1. Clone o repositório
 git clone https://github.com/Maickon0709/sistema_academico.git
 2. Acesse a pasta do projeto
 cd sistema_academico
 3. Configure o banco de dados
 
+
 Crie o banco de dados MySQL e ajuste as credenciais de conexão no arquivo responsável pela conexão com o banco.
+
 
 4. Instale as dependências necessárias
 pip install mysql-connector-python
@@ -51,7 +59,9 @@ pip install mysql-connector-python
 python tela_menu.py
 🎯 Objetivos de Aprendizagem
 
+
 Este projeto foi desenvolvido com o objetivo de praticar:
+
 
 Programação em Python
 Operações CRUD
@@ -61,8 +71,11 @@ Modularização de código
 Controle de versão com Git e GitHub
 👨‍💻 Autor
 
+
 Maickon Santos
 
+
 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
 
 Focado em Back-End, Banco de Dados e Análise de Dados.
